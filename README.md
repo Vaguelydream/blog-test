@@ -15,8 +15,6 @@
 
 我平时喜欢在[斗鱼直播](https://www.douyu.com/)看直播
 
-![这是一张图片](C:\Users\Administrator\Pictures)
-
 以下是代码
 ```JavaScript
 var b = 5;
